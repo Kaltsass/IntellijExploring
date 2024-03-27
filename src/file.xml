@@ -1,0 +1,9 @@
+<element>
+    <child x = "foo">
+        <childs_element x2 ="foo2"/>
+    </child>
+    <child x = "foo">
+            <childs_element x2 = "foo3"/>
+    </child>
+
+</element>
